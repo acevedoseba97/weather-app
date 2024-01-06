@@ -58,7 +58,7 @@ function dayOfTheWeek(day, month, year) {
 
 //WeatherAPI con Fetch
 function fetchWeatherData() {
-  const APIKey = "5a7be2e1be424d3ab4b203613232012";
+  const APIKey = "INSERT_API_KEY";
   const lang = "es";
 
   fetch(
