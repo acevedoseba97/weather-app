@@ -11,12 +11,6 @@ This is a weather app that displays weather information from any place:
 * It is responsive, it works on any device.
 
 ## Technologies used
-
-![Static Badge](https://img.shields.io/badge/HTML5-%23000?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6)
-![Static Badge](https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E)
-
-
 ![html](https://github.com/acevedoseba97/weather-app/assets/117867239/1afef04c-c634-46ba-bd1f-0cb788118f54)
 ![css3](https://github.com/acevedoseba97/weather-app/assets/117867239/d78a11df-a991-47ad-9b59-faa8fe5c80e7)
 ![js](https://github.com/acevedoseba97/weather-app/assets/117867239/9d969151-7b56-4177-83cf-cbed7534b1af)
