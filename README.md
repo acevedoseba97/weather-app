@@ -1,6 +1,6 @@
 
 <h1 align="center">Responsive Weather App</h1>
-This is my second project using frontend tech. This project makes AJAX calls to WeatherAPI to get access to different regions.
+This is my second project using frontend tech. This project makes AJAX calls to WeatherAPI to get weather data from different regions.
 
 <mark>**IMPORTANT**</mark>: For this project to properly work, you need to register in <a href="https://www.weatherapi.com/" target="_blank">WeatherAPI</a> and get an API Key. Once you get the key, place it in the script.js file in the APIKey variable.
 
