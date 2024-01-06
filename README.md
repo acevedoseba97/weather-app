@@ -1,3 +1,4 @@
+
 <h1 align="center">Responsive Weather App</h1>
 This is my second project using frontend tech. This project makes AJAX calls to WeatherAPI to get access to different regions.
 
@@ -15,6 +16,7 @@ This is a weather app that displays weather information from any place:
 ![Static Badge](https://img.shields.io/badge/CSS3-%23000?style=for-the-badge&logo=css3&logoColor=%23fff&labelColor=%231572B6)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23000?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23F7DF1E)
 
-<a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a> 
+
+  ![html](https://github.com/acevedoseba97/weather-app/assets/117867239/1afef04c-c634-46ba-bd1f-0cb788118f54)
+![css3](https://github.com/acevedoseba97/weather-app/assets/117867239/d78a11df-a991-47ad-9b59-faa8fe5c80e7)
+
