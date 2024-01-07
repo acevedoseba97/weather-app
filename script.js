@@ -109,6 +109,8 @@ function fetchWeatherData() {
         timeOfDay = "noche";
       }
 
+      //console.log(code);
+
       if (code === 1000) {
         //Si el tiempo es despejado
         $app.style.backgroundImage = `url(./img/${timeOfDay}/despejado.jpg)`;
@@ -127,7 +129,6 @@ function fetchWeatherData() {
         code == 1087 ||
         code == 1135 ||
         code == 1273 ||
-        code == 1276 ||
         code == 1279 ||
         code == 1282
       ) {
@@ -153,7 +154,8 @@ function fetchWeatherData() {
         code == 1243 ||
         code == 1246 ||
         code == 1249 ||
-        code == 1252
+        code == 1252 ||
+        code == 1276
       ) {
         $app.style.backgroundImage = `url(./img/${timeOfDay}/lluvia.jpg)`;
         $btn.style.backgroundColor = "#647d75";
