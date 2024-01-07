@@ -138,7 +138,7 @@ function fetchWeatherData() {
           $btn.style.backgroundColor = "#181e27";
         }
       } else if (
-        //Si el tiempo es lluvioso
+        //Si el tiempo es lluvioso o hay tormentas
         code == 1063 ||
         code == 1069 ||
         code == 1072 ||
